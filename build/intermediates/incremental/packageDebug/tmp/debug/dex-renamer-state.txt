@@ -1,0 +1,4 @@
+#Sat Feb 29 02:40:09 CST 2020
+base.0=G\:\\unity3dworkspace\\unityandroidvrthree\\GVR Demos\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
